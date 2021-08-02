@@ -16,4 +16,4 @@
 
 - If you feel any type of error in setup or in to run the bot , join my discord server and ask help for it there 
 
-#[CLICK HERE](https://discord.gg/uHd76WsBGK)
+# [CLICK HERE](https://discord.gg/uHd76WsBGK)
