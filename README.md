@@ -11,3 +11,9 @@
  - and enter your token in environmental variables and add TOKEN in key and the token value in the value section 
 
 - Use config.json to enter your token and server id and then you can setup it easily ~ Thanks
+
+# MY SERVER 
+
+- If you feel any type of error in setup or in to run the bot , join my discord server and ask help for it there 
+
+#[CLICK HERE](https://discord.gg/uHd76WsBGK)
